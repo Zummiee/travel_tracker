@@ -6,6 +6,8 @@ Main functions:
 3. to log visisted countries for a given user, you would first need to click on the user name on the home page.
 4. the site also keeps track of the total number of countries added by a given user and shows the number at the bottom of the page.
 
+Note: Frontend adapated from codes provided in a course project, created backend independently as an exercise.
+
 TO DO:
 1. add an "edit" function that allows users to change their name or color.
 2. add a function allowing users to unmark a country from the map in case of accidental addition.
