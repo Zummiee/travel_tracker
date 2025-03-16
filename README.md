@@ -1,5 +1,7 @@
 A travel tracker that allows users to track the countries that they have visited.
 
+Deployed Site: https://travel-tracker-zpy6.onrender.com/
+
 Main functions:
 1. each user is linked to a color chosen at the time when the user account was created; to add a new country, simply input the country name in the input field (case does not matter) and click on the "Add" button, the country then will be highligted in the corresponding user color in the map.
 2. to add a new user, simply click on the "Add New Member" button, this will redirect you to a page where you can add the name and color for the new account, once you have finished the configuration, click on "ADD", and the site will redirect you back to the home page.
